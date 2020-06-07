@@ -2,7 +2,7 @@
 # MyAKHScripts
 AutoHotKey scripts that I use - published in case someone else would like to use them.
 
-SurfaceBook3.akh
+SurfaceBook3.ahk
 -
  I made this script because I was used to a keyboard with a Context Key, RCtrl, RAlt, and RWin. Using KeyTweak, I changed my right context key to the right control key. This is required to get the "Tap for context, hold for RCtrl" functionality.
 I use external keyboards fairly often, and other people use my computer as well, so keys needed to mostly function as they looked like they would.
