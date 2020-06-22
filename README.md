@@ -19,4 +19,4 @@ The reason why I'm using AHK and the mappings that I'm using is because I use ex
 This script is launched with Admin rights on every workstation logon and unlock with Task Scheduler. You can use [this Task Scheduler Guide](http://forum.notebookreview.com/threads/the-throttlestop-guide.531329/#post-6865107) to start as Administrator so the remappings work in elevated applications as well. 
 
 
-I used [DefKey](https://defkey.com/) to minimize conflicting shortcuts with applications I use, and I suggest you do the same as well. 
+I used [DefKey](https://defkey.com/) to minimize conflicting shortcuts with applications I use, and I suggest you do the same as well, especially when making a global keyboard shortcut. I've had to frequently reassign things due to conflicts in other applications - Mostly the Adobe Creative Suite, FL Studio, and VS Code.
