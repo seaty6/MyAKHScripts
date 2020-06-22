@@ -17,3 +17,6 @@ This script is launched with Admin rights on every workstation logon and unlock 
 Using Sharpkey/keytweak, I changed my right context key to the right control key.
 The reason why I'm using AHK and the mappings that I'm using is because I use external keyboards fairly frequently, and can't have confusing mappings. 
 This script is launched with Admin rights on every workstation logon and unlock with Task Scheduler. You can use [this Task Scheduler Guide](http://forum.notebookreview.com/threads/the-throttlestop-guide.531329/#post-6865107) to start as Administrator so the remappings work in elevated applications as well. 
+
+
+I used [DefKey](https://defkey.com/) to minimize conflicting shortcuts with applications I use, and I suggest you do the same as well. 
